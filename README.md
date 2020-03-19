@@ -2,9 +2,9 @@ Name: Matías Ponce B.
 
 3.- How is the list of news articles structured with HTML?
 
-		The document has a structure similar to the http protocol.
-		The news list is structured with different labels in which they store the necessary information to display on the screen. For example, in the <a> tag is the text of each news item and this is found within the <td> tag.
-		The structure of the labels from least to greatest is "<head>", "<body>", "<center>", "<table>", "<tbody>","<tr>","<td>", <a>.
+	The document has a structure similar to the http protocol.
+	The news list is structured with different labels in which they store the necessary information to display on the screen. For example, in the <a> tag is the text of each news item and this is found within the <td> tag.
+	The structure of the labels from least to greatest is "<head>", "<body>", "<center>", "<table>", "<tbody>","<tr>","<td>", <a>.
 
 4.- Briefly describe what you see in files with names starting with hn.js and news.css. How are these files different? What is their purpose?
 
